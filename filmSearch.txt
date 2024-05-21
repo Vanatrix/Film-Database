@@ -1,0 +1,10 @@
+To select an option, type the corresponding number and press ENTER.
+
+What filter would you like to use to search through the database?
+
+1. Show all films
+2. Filter by genre
+3. Filter by year released
+4. Filter by rating
+5. Return to Main Menu
+
